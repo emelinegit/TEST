@@ -1,4 +1,4 @@
 var message = "Yo";
 alert("hello");
-alert("yo);
+alert("yo");
 alert(message);
